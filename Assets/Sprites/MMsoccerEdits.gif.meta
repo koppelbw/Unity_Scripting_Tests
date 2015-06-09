@@ -1,0 +1,3831 @@
+fileFormatVersion: 2
+guid: 7afa2dfc8ee52f241a27bf118a8fa7af
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MMsoccerEdits_0
+    21300002: MMsoccerEdits_1
+    21300004: MMsoccerEdits_2
+    21300006: MMsoccerEdits_3
+    21300008: MMsoccerEdits_4
+    21300010: MMsoccerEdits_5
+    21300012: MMsoccerEdits_6
+    21300014: MMsoccerEdits_7
+    21300016: MMsoccerEdits_8
+    21300018: MMsoccerEdits_9
+    21300020: MMsoccerEdits_10
+    21300022: MMsoccerEdits_11
+    21300024: MMsoccerEdits_12
+    21300026: MMsoccerEdits_13
+    21300028: MMsoccerEdits_14
+    21300030: MMsoccerEdits_15
+    21300032: MMsoccerEdits_16
+    21300034: MMsoccerEdits_17
+    21300036: MMsoccerEdits_18
+    21300038: MMsoccerEdits_19
+    21300040: MMsoccerEdits_20
+    21300042: MMsoccerEdits_21
+    21300044: MMsoccerEdits_22
+    21300046: MMsoccerEdits_23
+    21300048: MMsoccerEdits_24
+    21300050: MMsoccerEdits_25
+    21300052: MMsoccerEdits_26
+    21300054: MMsoccerEdits_27
+    21300056: MMsoccerEdits_28
+    21300058: MMsoccerEdits_29
+    21300060: MMsoccerEdits_30
+    21300062: MMsoccerEdits_31
+    21300064: MMsoccerEdits_32
+    21300066: MMsoccerEdits_33
+    21300068: MMsoccerEdits_34
+    21300070: MMsoccerEdits_35
+    21300072: MMsoccerEdits_36
+    21300074: MMsoccerEdits_37
+    21300076: MMsoccerEdits_38
+    21300078: MMsoccerEdits_39
+    21300080: MMsoccerEdits_40
+    21300082: MMsoccerEdits_41
+    21300084: MMsoccerEdits_42
+    21300086: MMsoccerEdits_43
+    21300088: MMsoccerEdits_44
+    21300090: MMsoccerEdits_45
+    21300092: MMsoccerEdits_46
+    21300094: MMsoccerEdits_47
+    21300096: MMsoccerEdits_48
+    21300098: MMsoccerEdits_49
+    21300100: MMsoccerEdits_50
+    21300102: MMsoccerEdits_51
+    21300104: MMsoccerEdits_52
+    21300106: MMsoccerEdits_53
+    21300108: MMsoccerEdits_54
+    21300110: MMsoccerEdits_55
+    21300112: MMsoccerEdits_56
+    21300114: MMsoccerEdits_57
+    21300116: MMsoccerEdits_58
+    21300118: MMsoccerEdits_59
+    21300120: MMsoccerEdits_60
+    21300122: MMsoccerEdits_61
+    21300124: MMsoccerEdits_62
+    21300126: MMsoccerEdits_63
+    21300128: MMsoccerEdits_64
+    21300130: MMsoccerEdits_65
+    21300132: MMsoccerEdits_66
+    21300134: MMsoccerEdits_67
+    21300136: MMsoccerEdits_68
+    21300138: MMsoccerEdits_69
+    21300140: MMsoccerEdits_70
+    21300142: MMsoccerEdits_71
+    21300144: MMsoccerEdits_72
+    21300146: MMsoccerEdits_73
+    21300148: MMsoccerEdits_74
+    21300150: MMsoccerEdits_75
+    21300152: MMsoccerEdits_76
+    21300154: MMsoccerEdits_77
+    21300156: MMsoccerEdits_78
+    21300158: MMsoccerEdits_79
+    21300160: MMsoccerEdits_80
+    21300162: MMsoccerEdits_81
+    21300164: MMsoccerEdits_82
+    21300166: MMsoccerEdits_83
+    21300168: MMsoccerEdits_84
+    21300170: MMsoccerEdits_85
+    21300172: MMsoccerEdits_86
+    21300174: MMsoccerEdits_87
+    21300176: MMsoccerEdits_88
+    21300178: MMsoccerEdits_89
+    21300180: MMsoccerEdits_90
+    21300182: MMsoccerEdits_91
+    21300184: MMsoccerEdits_92
+    21300186: MMsoccerEdits_93
+    21300188: MMsoccerEdits_94
+    21300190: MMsoccerEdits_95
+    21300192: MMsoccerEdits_96
+    21300194: MMsoccerEdits_97
+    21300196: MMsoccerEdits_98
+    21300198: MMsoccerEdits_99
+    21300200: MMsoccerEdits_100
+    21300202: MMsoccerEdits_101
+    21300204: MMsoccerEdits_102
+    21300206: MMsoccerEdits_103
+    21300208: MMsoccerEdits_104
+    21300210: MMsoccerEdits_105
+    21300212: MMsoccerEdits_106
+    21300214: MMsoccerEdits_107
+    21300216: MMsoccerEdits_108
+    21300218: MMsoccerEdits_109
+    21300220: MMsoccerEdits_110
+    21300222: MMsoccerEdits_111
+    21300224: MMsoccerEdits_112
+    21300226: MMsoccerEdits_113
+    21300228: MMsoccerEdits_114
+    21300230: MMsoccerEdits_115
+    21300232: MMsoccerEdits_116
+    21300234: MMsoccerEdits_117
+    21300236: MMsoccerEdits_118
+    21300238: MMsoccerEdits_119
+    21300240: MMsoccerEdits_120
+    21300242: MMsoccerEdits_121
+    21300244: MMsoccerEdits_122
+    21300246: MMsoccerEdits_123
+    21300248: MMsoccerEdits_124
+    21300250: MMsoccerEdits_125
+    21300252: MMsoccerEdits_126
+    21300254: MMsoccerEdits_127
+    21300256: MMsoccerEdits_128
+    21300258: MMsoccerEdits_129
+    21300260: MMsoccerEdits_130
+    21300262: MMsoccerEdits_131
+    21300264: MMsoccerEdits_132
+    21300266: MMsoccerEdits_133
+    21300268: MMsoccerEdits_134
+    21300270: MMsoccerEdits_135
+    21300272: MMsoccerEdits_136
+    21300274: MMsoccerEdits_137
+    21300276: MMsoccerEdits_138
+    21300278: MMsoccerEdits_139
+    21300280: MMsoccerEdits_140
+    21300282: MMsoccerEdits_141
+    21300284: MMsoccerEdits_142
+    21300286: MMsoccerEdits_143
+    21300288: MMsoccerEdits_144
+    21300290: MMsoccerEdits_145
+    21300292: MMsoccerEdits_146
+    21300294: MMsoccerEdits_147
+    21300296: MMsoccerEdits_148
+    21300298: MMsoccerEdits_149
+    21300300: MMsoccerEdits_150
+    21300302: MMsoccerEdits_151
+    21300304: MMsoccerEdits_152
+    21300306: MMsoccerEdits_153
+    21300308: MMsoccerEdits_154
+    21300310: MMsoccerEdits_155
+    21300312: MMsoccerEdits_156
+    21300314: MMsoccerEdits_157
+    21300316: MMsoccerEdits_158
+    21300318: MMsoccerEdits_159
+    21300320: MMsoccerEdits_160
+    21300322: MMsoccerEdits_161
+    21300324: MMsoccerEdits_162
+    21300326: MMsoccerEdits_163
+    21300328: MMsoccerEdits_164
+    21300330: MMsoccerEdits_165
+    21300332: MMsoccerEdits_166
+    21300334: MMsoccerEdits_167
+    21300336: MMsoccerEdits_168
+    21300338: MMsoccerEdits_169
+    21300340: MMsoccerEdits_170
+    21300342: MMsoccerEdits_171
+    21300344: MMsoccerEdits_172
+    21300346: MMsoccerEdits_173
+    21300348: MMsoccerEdits_174
+    21300350: MMsoccerEdits_175
+    21300352: MMsoccerEdits_176
+    21300354: MMsoccerEdits_177
+    21300356: MMsoccerEdits_178
+    21300358: MMsoccerEdits_179
+    21300360: MMsoccerEdits_180
+    21300362: MMsoccerEdits_181
+    21300364: MMsoccerEdits_182
+    21300366: MMsoccerEdits_183
+    21300368: MMsoccerEdits_184
+    21300370: MMsoccerEdits_185
+    21300372: MMsoccerEdits_186
+    21300374: MMsoccerEdits_187
+    21300376: MMsoccerEdits_188
+    21300378: MMsoccerEdits_189
+    21300380: MMsoccerEdits_190
+    21300382: MMsoccerEdits_191
+    21300384: MMsoccerEdits_192
+    21300386: MMsoccerEdits_193
+    21300388: MMsoccerEdits_194
+    21300390: MMsoccerEdits_195
+    21300392: MMsoccerEdits_196
+    21300394: MMsoccerEdits_197
+    21300396: MMsoccerEdits_198
+    21300398: MMsoccerEdits_199
+    21300400: MMsoccerEdits_200
+    21300402: MMsoccerEdits_201
+    21300404: MMsoccerEdits_202
+    21300406: MMsoccerEdits_203
+    21300408: MMsoccerEdits_204
+    21300410: MMsoccerEdits_205
+    21300412: MMsoccerEdits_206
+    21300414: MMsoccerEdits_207
+    21300416: MMsoccerEdits_208
+    21300418: MMsoccerEdits_209
+    21300420: MMsoccerEdits_210
+    21300422: MMsoccerEdits_211
+    21300424: MMsoccerEdits_212
+    21300426: MMsoccerEdits_213
+    21300428: MMsoccerEdits_214
+    21300430: MMsoccerEdits_215
+    21300432: MMsoccerEdits_216
+    21300434: MMsoccerEdits_217
+    21300436: MMsoccerEdits_218
+    21300438: MMsoccerEdits_219
+    21300440: MMsoccerEdits_220
+    21300442: MMsoccerEdits_221
+    21300444: MMsoccerEdits_222
+    21300446: MMsoccerEdits_223
+    21300448: MMsoccerEdits_224
+    21300450: MMsoccerEdits_225
+    21300452: MMsoccerEdits_226
+    21300454: MMsoccerEdits_227
+    21300456: MMsoccerEdits_228
+    21300458: MMsoccerEdits_229
+    21300460: MMsoccerEdits_230
+    21300462: MMsoccerEdits_231
+    21300464: MMsoccerEdits_232
+    21300466: MMsoccerEdits_233
+    21300468: MMsoccerEdits_234
+    21300470: MMsoccerEdits_235
+    21300472: MMsoccerEdits_236
+    21300474: MMsoccerEdits_237
+    21300476: MMsoccerEdits_238
+    21300478: MMsoccerEdits_239
+    21300480: MMsoccerEdits_240
+    21300482: MMsoccerEdits_241
+    21300484: MMsoccerEdits_242
+    21300486: MMsoccerEdits_243
+    21300488: MMsoccerEdits_244
+    21300490: MMsoccerEdits_245
+    21300492: MMsoccerEdits_246
+    21300494: MMsoccerEdits_247
+    21300496: MMsoccerEdits_248
+    21300498: MMsoccerEdits_249
+    21300500: MMsoccerEdits_250
+    21300502: MMsoccerEdits_251
+    21300504: MMsoccerEdits_252
+    21300506: MMsoccerEdits_253
+    21300508: MMsoccerEdits_254
+    21300510: MMsoccerEdits_255
+    21300512: MMsoccerEdits_256
+    21300514: MMsoccerEdits_257
+    21300516: MMsoccerEdits_258
+    21300518: MMsoccerEdits_259
+    21300520: MMsoccerEdits_260
+    21300522: MMsoccerEdits_261
+    21300524: MMsoccerEdits_262
+    21300526: MMsoccerEdits_263
+    21300528: MMsoccerEdits_264
+    21300530: MMsoccerEdits_265
+    21300532: MMsoccerEdits_266
+    21300534: MMsoccerEdits_267
+    21300536: MMsoccerEdits_268
+    21300538: MMsoccerEdits_269
+    21300540: MMsoccerEdits_270
+    21300542: MMsoccerEdits_271
+    21300544: MMsoccerEdits_272
+    21300546: MMsoccerEdits_273
+    21300548: MMsoccerEdits_274
+    21300550: MMsoccerEdits_275
+    21300552: MMsoccerEdits_276
+    21300554: MMsoccerEdits_277
+    21300556: MMsoccerEdits_278
+    21300558: MMsoccerEdits_279
+    21300560: MMsoccerEdits_280
+    21300562: MMsoccerEdits_281
+    21300564: MMsoccerEdits_282
+    21300566: MMsoccerEdits_283
+    21300568: MMsoccerEdits_284
+    21300570: MMsoccerEdits_285
+    21300572: MMsoccerEdits_286
+    21300574: MMsoccerEdits_287
+    21300576: MMsoccerEdits_288
+    21300578: MMsoccerEdits_289
+    21300580: MMsoccerEdits_290
+    21300582: MMsoccerEdits_291
+    21300584: MMsoccerEdits_292
+    21300586: MMsoccerEdits_293
+    21300588: MMsoccerEdits_294
+    21300590: MMsoccerEdits_295
+    21300592: MMsoccerEdits_296
+    21300594: MMsoccerEdits_297
+    21300596: MMsoccerEdits_298
+    21300598: MMsoccerEdits_299
+    21300600: MMsoccerEdits_300
+    21300602: MMsoccerEdits_301
+    21300604: MMsoccerEdits_302
+    21300606: MMsoccerEdits_303
+    21300608: MMsoccerEdits_304
+    21300610: MMsoccerEdits_305
+    21300612: MMsoccerEdits_306
+    21300614: MMsoccerEdits_307
+    21300616: MMsoccerEdits_308
+    21300618: MMsoccerEdits_309
+    21300620: MMsoccerEdits_310
+    21300622: MMsoccerEdits_311
+    21300624: MMsoccerEdits_312
+    21300626: MMsoccerEdits_313
+    21300628: MMsoccerEdits_314
+    21300630: MMsoccerEdits_315
+    21300632: MMsoccerEdits_316
+    21300634: MMsoccerEdits_317
+    21300636: MMsoccerEdits_318
+    21300638: MMsoccerEdits_319
+    21300640: MMsoccerEdits_320
+    21300642: MMsoccerEdits_321
+    21300644: MMsoccerEdits_322
+    21300646: MMsoccerEdits_323
+    21300648: MMsoccerEdits_324
+    21300650: MMsoccerEdits_325
+    21300652: MMsoccerEdits_326
+    21300654: MMsoccerEdits_327
+    21300656: MMsoccerEdits_328
+    21300658: MMsoccerEdits_329
+    21300660: MMsoccerEdits_330
+    21300662: MMsoccerEdits_331
+    21300664: MMsoccerEdits_332
+    21300666: MMsoccerEdits_333
+    21300668: MMsoccerEdits_334
+    21300670: MMsoccerEdits_335
+    21300672: MMsoccerEdits_336
+    21300674: MMsoccerEdits_337
+    21300676: MMsoccerEdits_338
+    21300678: MMsoccerEdits_339
+    21300680: MMsoccerEdits_340
+    21300682: MMsoccerEdits_341
+    21300684: MMsoccerEdits_342
+    21300686: MMsoccerEdits_343
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MMsoccerEdits_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 433
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 433
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 433
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 438
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 439
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 431
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 431
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 432
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 430
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 430
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 431
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 432
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 431
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 430
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 430
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 429
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 399
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 399
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 399
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 396
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 391
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 392
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 392
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 391
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 394
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 392
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 395
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 395
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 393
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 389
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_34
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 393
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_35
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 390
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 364
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 365
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 363
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 362
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 360
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 353
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 353
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 353
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 357
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 354
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 357
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 358
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 358
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 358
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_51
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 355
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 353
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_53
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 356
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 326
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 325
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 326
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 315
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 314
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 313
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 313
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_64
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 315
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 315
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 320
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 319
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_68
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 316
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_69
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 314
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_70
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 314
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 280
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 279
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 278
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 278
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_78
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 276
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 276
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_80
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 275
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 271
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 272
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 271
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_84
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 275
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_85
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 275
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_86
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 274
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_87
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 271
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_88
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 273
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_89
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 272
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_91
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 242
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_94
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 240
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 237
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 240
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_98
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 233
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_99
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 238
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_100
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 236
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_101
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 237
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_102
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 238
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_103
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 236
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_104
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 233
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_105
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 240
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_106
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 234
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 202
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_110
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 204
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_111
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 204
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_113
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 202
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_114
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 200
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_115
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_116
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 196
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 202
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_118
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 201
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_119
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_120
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 198
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_121
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 199
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 196
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_123
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 205
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_124
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 200
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_126
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 162
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_128
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 168
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_129
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 166
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 165
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_131
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 161
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 163
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 157
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_134
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 156
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_135
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 164
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_136
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 161
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_137
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_138
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_139
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 158
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_140
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 158
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_141
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 169
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 162
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_143
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_145
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 119
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_146
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 118
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_147
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 120
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 120
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_149
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 129
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_151
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 118
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_152
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_153
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_155
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 138
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_156
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 138
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_157
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_158
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_159
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 138
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_160
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 138
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_161
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_162
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_163
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_164
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_165
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_166
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 138
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_167
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_168
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 138
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_169
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_170
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_171
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 121
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_172
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 123
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_175
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_176
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 123
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_177
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_178
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_179
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_180
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_181
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 123
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_182
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 123
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_183
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 123
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_184
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 123
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_185
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 123
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_187
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 86
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_188
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_189
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 78
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_191
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 79
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_192
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_193
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 77
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_194
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 77
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_195
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 77
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_196
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_197
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 102
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_198
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_199
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_200
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_201
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_202
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_203
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_204
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 108
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_205
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_206
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_207
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 106
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_208
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_209
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 108
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_210
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_211
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_212
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 108
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_213
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_214
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_215
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_216
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_217
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_218
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 108
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_219
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 108
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_220
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 108
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_221
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_222
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_223
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_224
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 79
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_225
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 88
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_226
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 88
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_227
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_228
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_229
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 88
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_230
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 88
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_231
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 88
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_232
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_233
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 93
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_234
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_235
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_236
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 93
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_237
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_238
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 93
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_239
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_240
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_241
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 91
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_242
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_243
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_244
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 91
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_245
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_246
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_247
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_248
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_249
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_250
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_251
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 93
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_252
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 93
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_253
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 52
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_254
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_255
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_256
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_257
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_258
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 78
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_259
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_260
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_261
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_262
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_263
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_264
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_265
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_266
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_267
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_268
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_269
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_270
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 78
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_271
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 78
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_272
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_273
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_274
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 78
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_275
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 78
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_276
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_277
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 39
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_278
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_279
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 38
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_280
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 34
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_281
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_282
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_283
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 61
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_284
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 63
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_285
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_286
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_287
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_288
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_289
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 63
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_290
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_291
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_292
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 63
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_293
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_294
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 63
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_295
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 63
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_296
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_297
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_298
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_299
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 61
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_300
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_301
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 61
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_302
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_303
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 63
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_304
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_305
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 48
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_306
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_307
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_308
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 48
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_309
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_310
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 48
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_311
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_312
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_313
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_314
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 48
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_315
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 46
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_316
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_317
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_318
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 48
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_319
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_320
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 48
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_321
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 48
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_322
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 48
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_323
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_324
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_325
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_326
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_327
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_328
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_329
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_330
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_331
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_332
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_333
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_334
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_335
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_336
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_337
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_338
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_339
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_340
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_341
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_342
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MMsoccerEdits_343
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 33
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
